@@ -17,6 +17,7 @@ namespace uork_api
 
         static async Task Main(string[] args)
         {
+            Console.Clear();
             try
             {
                 Console.WriteLine("Uork - API Example");
